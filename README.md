@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @fidelnamisi
+- 👋 Hi, I’m Fidel Namisi.
 - 👀 I’m interested in making tools that make storytelling more playful and fun.
 - 🌱 I’m currently learning how to use Github.
 - 💞️ I’m looking to collaborate on creating custom dictionaries for Mac OS.
