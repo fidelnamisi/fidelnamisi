@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Fidel Namisi.
-- 👀 I’m interested in making tools that make storytelling more playful and fun.
+- 👀 I’m interested in the intersection between analogue, digital, and storytelling.
 - 🌱 I’m currently learning how to use Github.
-- 💞️ I’m looking to collaborate on creating custom dictionaries for Mac OS.
+- 💞️ I’m looking to collaborate with people with shared interests.
 - 📫 Email fidel@fidelnamisi.com
 
 <!---
